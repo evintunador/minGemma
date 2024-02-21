@@ -1,0 +1,1 @@
+a WIP minimal implementation of Google's Gemma model meant to be used as a teaching resource. The idea is to model it off of Andrej Karpathy's minGPT lesson from a few years ago. Once it's done I'll have a video walkthrough up on youtube. Let's see if I can beat him to it
