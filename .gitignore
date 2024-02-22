@@ -166,3 +166,4 @@ __pycache__/
 *.DS_Store
 
 future_sight_GPT.ipynb
+/tokenizer/tokenizer.model
